@@ -9,7 +9,7 @@ namespace c
        static void Main(string[] args)
        {
 int size,i;
-Console.Write("\nTo find the max and min of elements of array");
+Console.Write("\nTo find the even and odd elements of array");
 
 Console.Write("\n\nEnter the size of array ");
 size = Convert.ToInt32(Console.ReadLine());
