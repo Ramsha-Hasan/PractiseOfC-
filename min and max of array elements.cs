@@ -8,7 +8,7 @@ namespace c
     {
        static void Main(string[] args)
        {
-int size,i,j,count;
+int size,i;
 Console.Write("\nTo find the max and min of elements of array");
 
 Console.Write("\n\nEnter the size of array ");
