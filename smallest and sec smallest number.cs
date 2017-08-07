@@ -9,7 +9,7 @@ namespace c
        static void Main(string[] args)
        {
 int size,i;
-int smallestValue = 100;
+int smallestValue = 9999;
 int secondSmallestValue = 0;
 Console.Write("\n\nEnter the size of array ");
 size = Convert.ToInt32(Console.ReadLine());
